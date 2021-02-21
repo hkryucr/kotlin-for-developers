@@ -4,6 +4,7 @@ let initialValue = "hello";
 
 function App() {
   const he = "ass";
+  const hello = "world";
 
   return (
     <div className="App">
