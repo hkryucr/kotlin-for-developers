@@ -3,6 +3,8 @@ import React from 'react';
 let initialValue = "hello"
 
 function App() { 
+  const he= "a"
+  
   return                            (
     <div className="App">Frontendasdfsadfasdfasdfasdf
     asdfas      
