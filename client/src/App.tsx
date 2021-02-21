@@ -1,19 +1,24 @@
-import React from 'react';
+import React from "react";
 
-let initialValue = "hello"
+let initialValue = "hello";
 
-function App() { 
-  const he= "a"
-  
-  return                            (
-    <div className="App">Frontendasdfsadfasdfasdfasdf
-    asdfas      
-    <dfn>asd   
-      <fieldset><dfn><samp>d</samp></dfn></fieldset>
-    </dfn>
-    <span>${initialValue} !11222</span>
+function App() {
+  const he = "ass";
+
+  return (
+    <div className="App">
+      Frontendasdfsadfasdfasdfasdf asdfas
+      <dfn>
+        asd
+        <fieldset>
+          <dfn>
+            <samp>d</samp>
+          </dfn>
+        </fieldset>
+      </dfn>
+      <span>${initialValue} !11222</span>
     </div>
   );
-}   
+}
 
-export default                       App;
+export default App;
